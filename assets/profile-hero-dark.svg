@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" role="img" aria-labelledby="title desc">
+  <title id="title">Sooyeon Lee — Full-stack Developer · Data</title>
+  <desc id="desc">Data → API → Service. Turning structured data into practical services.</desc>
+  <rect width="800" height="240" rx="8" fill="#0d1117" />
+  <rect x="0" y="24" width="4" height="188" rx="2" fill="#409cff" />
+  <rect x="612" y="24" width="164" height="188" rx="4" fill="#14243a" />
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="28" y="57" fill="#409cff" font-size="15" font-weight="700" letter-spacing="3">SOOYEON LEE</text>
+    <text x="28" y="99" fill="#f0f6fc" font-size="27" font-weight="600">Full-stack Developer · Data</text>
+    <text x="28" y="157" fill="#f0f6fc" font-size="40" font-weight="700" letter-spacing="-1">Data <tspan fill="#409cff">→</tspan> API <tspan fill="#409cff">→</tspan> Service</text>
+    <text x="28" y="198" fill="#a8b3c2" font-size="18">Turning structured data into practical services.</text>
+  </g>
+  <g transform="translate(648 82) scale(3)" fill="#409cff" stroke="#409cff">
+    <path d="M6 23L16 9L26 19" fill="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="6" cy="23" r="2.5" stroke="none" /><circle cx="16" cy="9" r="2.5" stroke="none" /><circle cx="26" cy="19" r="2.5" stroke="none" />
+  </g>
+</svg>

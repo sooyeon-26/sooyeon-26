@@ -1,68 +1,55 @@
-# Sooyeon Lee
-
-**Full-stack Developer · Data**
-
-I collect and structure data, then build practical APIs and services around it.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg" />
+  <img src="./assets/profile-hero-light.svg" width="100%" alt="SOOYEON LEE — Full-stack Developer · Data. Data → API → Service. Turning structured data into practical services." />
+</picture>
 
 <p>
-  <a href="https://sooyeon-developer-portfolio.vercel.app/"><img src="./assets/portfolio-button.svg" width="166" height="34" alt="View Portfolio ↗" align="middle" /></a>
+  <a href="https://sooyeon-developer-portfolio.vercel.app/"><img src="./assets/portfolio-button.svg" width="190" height="38" alt="View Portfolio ↗" align="middle" /></a>
   &nbsp;&nbsp; <a href="mailto:dltndus01226@naver.com">Email ↗</a>
 </p>
 
-## Selected Projects
+<br />
 
-### `01` — TrendRadar
+### Selected Projects
 
-**RSS news collection and keyword trend analysis.**
+<h3><img src="./assets/project-accent.svg" width="3" height="20" alt="" /> &nbsp;TrendRadar</h3>
 
-`Collect` → `Process` → `Store` → `API` → `Visualize`
+<sub><strong>DATA PIPELINE · FULL STACK</strong></sub>
+
+RSS news collection and keyword trend analysis.
 
 <sub>Python · MongoDB · Express · React</sub>
 
-[Repository ↗](https://github.com/sooyeon-26/trend-radar) &nbsp; · &nbsp; [Live Demo ↗](https://trend-radar-sandy.vercel.app/)
+[Live Demo ↗](https://trend-radar-sandy.vercel.app/) &nbsp; · &nbsp; [GitHub ↗](https://github.com/sooyeon-26/trend-radar)
 
----
+<br />
 
-### `02` — SpendFlow
+<h3><img src="./assets/project-accent.svg" width="3" height="20" alt="" /> &nbsp;SpendFlow</h3>
 
-**Mobile expense tracking with text entry and a water-level budget display.**
+<sub><strong>MOBILE WEB</strong></sub>
 
-`Log` → `Local storage` → `Budget rules` → `Display`
+Mobile-first expense tracking with a water-level budget display.
 
 <sub>TypeScript · React · Zustand</sub>
 
-[Repository ↗](https://github.com/sooyeon-26/SpendFlow) &nbsp; · &nbsp; [Live Demo ↗](https://spend-flow-eight.vercel.app/)
+[Live Demo ↗](https://spend-flow-eight.vercel.app/) &nbsp; · &nbsp; [GitHub ↗](https://github.com/sooyeon-26/SpendFlow)
 
----
+<br />
 
-### `03` — 타도될까
+<h3><img src="./assets/project-accent.svg" width="3" height="20" alt="" /> &nbsp;타도될까</h3>
 
-**Hourly boarding charts built from monthly Seoul bus data.**
+<sub><strong>DATA VISUALIZATION</strong></sub>
 
-`Public CSV` → `Process & cache` → `API` → `Chart`
+Hourly boarding charts built from monthly Seoul bus data.
 
 <sub>Python · Express · React</sub>
 
-[Repository ↗](https://github.com/sooyeon-26/transport-service) &nbsp; · &nbsp; [Live Demo ↗](https://transport-service-omega.vercel.app/)
+[Live Demo ↗](https://transport-service-omega.vercel.app/) &nbsp; · &nbsp; [GitHub ↗](https://github.com/sooyeon-26/transport-service)
 
-## Tech Stack
+<br />
 
-<p>
-  <strong>Languages</strong><br />
-  <img src="./assets/python.svg" width="18" height="18" alt="Python logo" /> Python &nbsp; · &nbsp;
-  <img src="./assets/javascript.svg" width="18" height="18" alt="JavaScript logo" /> JavaScript &nbsp; · &nbsp;
-  <img src="./assets/typescript.svg" width="18" height="18" alt="TypeScript logo" /> TypeScript
-</p>
-<p>
-  <strong>Frontend</strong><br />
-  <img src="./assets/react.svg" width="18" height="18" alt="React logo" /> React
-</p>
-<p>
-  <strong>Backend</strong><br />
-  <img src="./assets/nodejs.svg" width="18" height="18" alt="Node.js logo" /> Node.js &nbsp; · &nbsp;
-  <img src="./assets/express.svg" width="18" height="18" alt="Express logo" /> Express
-</p>
-<p>
-  <strong>Database</strong><br />
-  <img src="./assets/mongodb.svg" width="18" height="18" alt="MongoDB logo" /> MongoDB
-</p>
+### Stack
+
+Python · JavaScript · TypeScript<br />
+React · Node.js · Express · MongoDB
