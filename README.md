@@ -1,4 +1,4 @@
-# <img src="./assets/mark.svg" width="28" height="28" alt="" /> Sooyeon Lee
+# <img src="./assets/mark.svg" width="28" height="28" alt="Connected data" /> Sooyeon Lee
 
 **Full-stack Developer · Data**
 
@@ -50,17 +50,17 @@ Hourly boarding charts built from monthly Seoul bus data.
 
 <p>
   <strong>Languages</strong><br />
-  <img src="./assets/python.svg" width="16" height="16" alt="" /> Python &nbsp; · &nbsp;
-  <img src="./assets/javascript.svg" width="16" height="16" alt="" /> JavaScript &nbsp; · &nbsp;
-  <img src="./assets/typescript.svg" width="16" height="16" alt="" /> TypeScript
+  <img src="./assets/python.svg" width="16" height="16" alt="Python logo" /> Python &nbsp; · &nbsp;
+  <img src="./assets/javascript.svg" width="16" height="16" alt="JavaScript logo" /> JavaScript &nbsp; · &nbsp;
+  <img src="./assets/typescript.svg" width="16" height="16" alt="TypeScript logo" /> TypeScript
 </p>
 <p>
   <strong>Web</strong><br />
-  <img src="./assets/react.svg" width="16" height="16" alt="" /> React &nbsp; · &nbsp;
-  <img src="./assets/nodejs.svg" width="16" height="16" alt="" /> Node.js &nbsp; · &nbsp;
-  <img src="./assets/express.svg" width="16" height="16" alt="" /> Express
+  <img src="./assets/react.svg" width="16" height="16" alt="React logo" /> React &nbsp; · &nbsp;
+  <img src="./assets/nodejs.svg" width="16" height="16" alt="Node.js logo" /> Node.js &nbsp; · &nbsp;
+  <img src="./assets/express.svg" width="16" height="16" alt="Express logo" /> Express
 </p>
 <p>
   <strong>Database</strong><br />
-  <img src="./assets/mongodb.svg" width="16" height="16" alt="" /> MongoDB
+  <img src="./assets/mongodb.svg" width="16" height="16" alt="MongoDB logo" /> MongoDB
 </p>
