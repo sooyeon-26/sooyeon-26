@@ -2,8 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-name-dark.svg" />
     <img src="./assets/profile-name-light.svg" width="260" height="40" alt="Sooyeon Lee" />
-  </picture><br />
-  <sub>안녕하세요 이수연입니다</sub>
+  </picture>
 </p>
 
 <p align="center">
