@@ -24,19 +24,19 @@
 
 <p align="center">
   <strong>Languages</strong><br />
-  <img src="./assets/badges/python.svg" height="30" align="top" alt="Python" />
-  <img src="./assets/badges/javascript.svg" height="30" align="top" alt="JavaScript" />
-  <img src="./assets/badges/typescript.svg" height="30" align="top" alt="TypeScript" />
+  <img src="./assets/badges/python.svg?v=2" height="30" align="top" alt="Python" />
+  <img src="./assets/badges/javascript.svg?v=2" height="30" align="top" alt="JavaScript" />
+  <img src="./assets/badges/typescript.svg?v=2" height="30" align="top" alt="TypeScript" />
 </p>
 
 <p align="center">
   <strong>Web</strong><br />
-  <img src="./assets/badges/react.svg" height="30" align="top" alt="React" />
-  <img src="./assets/badges/nodejs.svg" height="30" align="top" alt="Node.js" />
-  <img src="./assets/badges/express.svg" height="30" align="top" alt="Express" />
+  <img src="./assets/badges/react.svg?v=2" height="30" align="top" alt="React" />
+  <img src="./assets/badges/nodejs.svg?v=2" height="30" align="top" alt="Node.js" />
+  <img src="./assets/badges/express.svg?v=2" height="30" align="top" alt="Express" />
 </p>
 
 <p align="center">
   <strong>Database</strong><br />
-  <img src="./assets/badges/mongodb.svg" height="30" align="top" alt="MongoDB" />
+  <img src="./assets/badges/mongodb.svg?v=2" height="30" align="top" alt="MongoDB" />
 </p>
