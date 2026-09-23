@@ -1,47 +1,66 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Sooyeon Lee — Full-stack Developer · Data" />
-</p>
+# <img src="./assets/mark.svg" width="28" height="28" alt="" /> Sooyeon Lee
 
-<p align="center">
-  I build practical services, from collecting and structuring data<br />
-  to APIs and user-facing interfaces.
-</p>
+**Full-stack Developer · Data**
 
-<p align="center">
-  <a href="https://sooyeon-developer-portfolio.vercel.app/"><strong>Portfolio ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:dltndus01226@naver.com"><strong>Email ↗</strong></a>
-</p>
+I collect and structure data, then build APIs and services around it.
+
+[Portfolio ↗](https://sooyeon-developer-portfolio.vercel.app/) &nbsp; · &nbsp; [Email ↗](mailto:dltndus01226@naver.com)
 
 <br />
 
-<h2 align="center">Tech Stack</h2>
+## Selected Projects
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="./assets/react.svg" alt="React" height="28" />
-  <img src="./assets/typescript.svg" alt="TypeScript" height="28" />
-  <img src="./assets/javascript.svg" alt="JavaScript" height="28" />
-</p>
+### `01` TrendRadar
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="./assets/nodejs.svg" alt="Node.js" height="28" />
-  <img src="./assets/express.svg" alt="Express" height="28" />
-</p>
+RSS news collection and keyword trend analysis.
 
-<h3 align="center">Data</h3>
-<p align="center">
-  <img src="./assets/python.svg" alt="Python" height="28" />
-  <img src="./assets/mongodb.svg" alt="MongoDB" height="28" />
-</p>
+`Collect` → `Process` → `Store` → `API` → `Visualize`
+
+<sub>Python · MongoDB · Express · React</sub>
+
+[Code ↗](https://github.com/sooyeon-26/trend-radar) &nbsp; · &nbsp; [Demo ↗](https://trend-radar-sandy.vercel.app/)
 
 <br />
 
-## Projects
+### `02` SpendFlow
 
-| Project | What I built | Links |
-| :--- | :--- | :--- |
-| **TrendRadar** | RSS collection, keyword analysis, and a trend dashboard.<br />`Python` `React` `Express` `MongoDB` | [Code](https://github.com/sooyeon-26/trend-radar) · [Demo](https://trend-radar-sandy.vercel.app/) |
-| **SpendFlow** | Mobile expense tracking with text entry and a water-level budget display.<br />`TypeScript` `React` `Zustand` | [Code](https://github.com/sooyeon-26/SpendFlow) · [Demo](https://spend-flow-eight.vercel.app/) |
-| **타도될까** | Monthly Seoul bus CSVs turned into an API and hourly boarding charts.<br />`Python` `React` `Express` | [Code](https://github.com/sooyeon-26/transport-service) · [Demo](https://transport-service-omega.vercel.app/) |
+Mobile expense tracking with text entry and a water-level budget display.
+
+`Log` → `Local storage` → `Budget rules` → `Display`
+
+<sub>TypeScript · React · Zustand</sub>
+
+[Code ↗](https://github.com/sooyeon-26/SpendFlow) &nbsp; · &nbsp; [Demo ↗](https://spend-flow-eight.vercel.app/)
+
+<br />
+
+### `03` 타도될까
+
+Hourly boarding charts built from monthly Seoul bus data.
+
+`Public CSV` → `Process & cache` → `API` → `Chart`
+
+<sub>Python · Express · React</sub>
+
+[Code ↗](https://github.com/sooyeon-26/transport-service) &nbsp; · &nbsp; [Demo ↗](https://transport-service-omega.vercel.app/)
+
+<br />
+
+## Tech
+
+<p>
+  <strong>Languages</strong><br />
+  <img src="./assets/python.svg" width="16" height="16" alt="" /> Python &nbsp; · &nbsp;
+  <img src="./assets/javascript.svg" width="16" height="16" alt="" /> JavaScript &nbsp; · &nbsp;
+  <img src="./assets/typescript.svg" width="16" height="16" alt="" /> TypeScript
+</p>
+<p>
+  <strong>Web</strong><br />
+  <img src="./assets/react.svg" width="16" height="16" alt="" /> React &nbsp; · &nbsp;
+  <img src="./assets/nodejs.svg" width="16" height="16" alt="" /> Node.js &nbsp; · &nbsp;
+  <img src="./assets/express.svg" width="16" height="16" alt="" /> Express
+</p>
+<p>
+  <strong>Database</strong><br />
+  <img src="./assets/mongodb.svg" width="16" height="16" alt="" /> MongoDB
+</p>
