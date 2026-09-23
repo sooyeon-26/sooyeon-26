@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-stack Developer · Data</strong><br />
+  <img src="./assets/intro-line.svg" width="1" height="24" align="top" alt="" /><strong>Full-stack Developer · Data</strong><br />
   <span>I build practical services from structured data.</span>
 </p>
 
