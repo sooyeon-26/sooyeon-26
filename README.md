@@ -1,6 +1,7 @@
 # Sooyeon Lee
 
 Full-stack developer working across data collection, APIs, and user-facing services.
+
 I turn recurring problems into practical tools, from structuring data to building the interface.
 
 ## Projects
