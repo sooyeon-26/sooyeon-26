@@ -1,47 +1,37 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg" />
-  <img src="./assets/profile-hero-light.svg" width="100%" alt="SOOYEON LEE — Full-stack Developer · Data. Data → API → Service. Turning structured data into practical services." />
-</picture>
+<h1 align="center">Sooyeon Lee</h1>
 
-<p>
-  <a href="https://sooyeon-developer-portfolio.vercel.app/"><img src="./assets/portfolio-button.svg" width="190" height="38" alt="View Portfolio ↗" align="middle" /></a>
-  &nbsp;&nbsp; <a href="mailto:dltndus01226@naver.com">Email ↗</a>
+<p align="center">
+  <strong>Full-stack Developer · Data</strong><br />
+  I build practical services from structured data.
 </p>
 
-### Selected Projects
+<p align="center">
+  <a href="https://sooyeon-developer-portfolio.vercel.app/"><img src="./assets/portfolio-button.svg" width="180" height="36" alt="View Portfolio ↗" /></a>
+</p>
 
-<h3><img src="./assets/project-accent.svg" width="3" height="20" alt="" /> &nbsp;TrendRadar</h3>
+<h3 align="center">Tech Stack</h3>
 
-<sub><strong>DATA PIPELINE · FULL STACK</strong></sub>
+<p align="center">
+  <strong>Languages</strong><br /><br />
+  <img src="./assets/badges/python.svg" height="28" alt="Python" />
+  <img src="./assets/badges/javascript.svg" height="28" alt="JavaScript" />
+  <img src="./assets/badges/typescript.svg" height="28" alt="TypeScript" />
+</p>
 
-RSS news collection and keyword trend analysis.
+<p align="center">
+  <strong>Web</strong><br /><br />
+  <img src="./assets/badges/react.svg" height="28" alt="React" />
+  <img src="./assets/badges/nodejs.svg" height="28" alt="Node.js" />
+  <img src="./assets/badges/express.svg" height="28" alt="Express" />
+</p>
 
-<sub>Python · MongoDB · Express · React</sub>
+<p align="center">
+  <strong>Database</strong><br /><br />
+  <img src="./assets/badges/mongodb.svg" height="28" alt="MongoDB" />
+</p>
 
-[Live Demo ↗](https://trend-radar-sandy.vercel.app/) &nbsp; · &nbsp; [GitHub ↗](https://github.com/sooyeon-26/trend-radar)
+<h3 align="center">Contact</h3>
 
-<h3><img src="./assets/project-accent.svg" width="3" height="20" alt="" /> &nbsp;SpendFlow</h3>
-
-<sub><strong>MOBILE WEB</strong></sub>
-
-Mobile-first expense tracking with a water-level budget display.
-
-<sub>TypeScript · React · Zustand</sub>
-
-[Live Demo ↗](https://spend-flow-eight.vercel.app/) &nbsp; · &nbsp; [GitHub ↗](https://github.com/sooyeon-26/SpendFlow)
-
-<h3><img src="./assets/project-accent.svg" width="3" height="20" alt="" /> &nbsp;타도될까</h3>
-
-<sub><strong>DATA VISUALIZATION</strong></sub>
-
-Hourly boarding charts built from monthly Seoul bus data.
-
-<sub>Python · Express · React</sub>
-
-[Live Demo ↗](https://transport-service-omega.vercel.app/) &nbsp; · &nbsp; [GitHub ↗](https://github.com/sooyeon-26/transport-service)
-
-### Stack
-
-Python · JavaScript · TypeScript<br />
-React · Node.js · Express · MongoDB
+<p align="center">
+  <a href="mailto:dltndus01226@naver.com">Email ↗</a>
+</p>
